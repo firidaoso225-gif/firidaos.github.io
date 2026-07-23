@@ -8,7 +8,7 @@ Dans le cadre de ma troisième année de BUT Génie Chimique - Génie des Procé
 Ces projets m’ont permis d’appliquer les méthodes de calcul utilisées en ingénierie des procédés : bilans thermiques, bilans matière, transferts de chaleur, transferts de matière, hydrodynamique, corrélations industrielles, optimisation énergétique et choix de matériel.
 
 
-# 🟩 Projet S5 - Dimensionnement thermique d’un réacteur
+# Projet S5 - Dimensionnement thermique d’un réacteur
 
 ## Objectif
 Dimensionner le système de chauffage d’un réacteur à double enveloppe afin d’atteindre une température de réaction en **moins de 20 minutes**, tout en respectant les contraintes industrielles.
@@ -24,15 +24,7 @@ Dimensionner le système de chauffage d’un réacteur à double enveloppe afin 
 
 
 ## 2. Bilan thermique
-Calcul basé sur :
-
-
-
-\[
-U \cdot A \cdot (T_f - T_r) = m_r \cdot C_{pr} \cdot \frac{dT_r}{dt}
-\]
-
-
+Calcul basé sur la :
 
 - Détermination de la surface d’échange  
 - Détermination du coefficient global de transfert thermique **U**  
@@ -74,7 +66,7 @@ Ce projet m’a permis de :
 - proposer des solutions réalistes pour atteindre un objectif industriel
 
 
-# 🟪 Projet S6 - Dimensionnement d’une colonne d’absorption à garnissage
+# Projet S6 - Dimensionnement d’une colonne d’absorption à garnissage
 
 ## Objectif
 Dimensionner une colonne d’absorption pour éliminer **95 % du SO₂** d’un gaz industriel contenant **8,5 % vol. SO₂**, avec un débit de **4500 ± 500 kg/h**.
@@ -98,13 +90,6 @@ Détermination du débit liquide minimal via la courbe d’équilibre :
 - Respect du critère industriel :  
 
 
-\[
-10 < \frac{D_{int}}{d_{garnissage}} < 20
-\]
-
-
-
-
 ## 3. Dimensionnement du diamètre (diagramme d’Eckert)
 - Calcul du paramètre X  
 - Choix d’une perte de charge optimale : **29 mmH₂O/m**  
@@ -118,28 +103,12 @@ Détermination du débit liquide minimal via la courbe d’équilibre :
 
 
 ## 4. Hauteur du garnissage
-Calcul basé sur :
-
-
-
-\[
-Z = HUT \times NUT
-\]
-
-
+Calcul basé sur la :
 
 - Détermination de NUT (méthode des trapèzes)  
 - Détermination de HUT (méthode d’Onda)  
-- Vérification du critère industriel :  
+- Vérification du critère industriel : Z/D avce Z=NUT*HUT et D = diamètre de la colonne 
 
-
-\[
-5 < \frac{Z}{D_{int}} < 10
-\]
-
-
-
----
 
 ## Synthèse du projet colonne
 Ce projet m’a permis de :
