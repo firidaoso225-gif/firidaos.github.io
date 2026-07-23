@@ -1,4 +1,4 @@
-# Projet de stage — Sika France (Avril–Juin 2025)
+# Projet de stage - Sika France (Avril–Juin 2025)
 
 ## Contexte
 Stage de 10 semaines au sein du laboratoire R&D Bi-composants de Sika France, sur le site de Gournay-en-Bray.  
@@ -14,7 +14,7 @@ Mission principale : **Revalorisation des eaux de rinçage des équipements de p
 4. Contribution à la démarche de **durabilité et économie circulaire**.
 
 
-## Partie 1 — Réintroduction des eaux de rinçage
+## Partie 1 - Réintroduction des eaux de rinçage
 
 ### Actions réalisées
 - Collecte des effluents issus du nettoyage des cuves.  
@@ -31,7 +31,7 @@ Mission principale : **Revalorisation des eaux de rinçage des équipements de p
 - Validation de la faisabilité technique.
 
 
-## Partie 2 — Conservation des eaux
+## Partie 2 - Conservation des eaux
 
 ### Stabilité physique
 - Observation de la décantation, homogénéité, évolution visuelle.  
