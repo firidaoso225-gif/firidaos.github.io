@@ -1,4 +1,4 @@
-# Projets académiques — BUT Génie Chimique – Génie des Procédés
+# Projets académiques - BUT Génie Chimique – Génie des Procédés
 
 ## Introduction
 Au cours de ma deuxième année de BUT Génie Chimique – Génie des Procédés, j’ai réalisé un projet complet portant sur le **bilan thermique d’une réaction chimique**, réparti en deux parties :  
@@ -8,7 +8,7 @@ Au cours de ma deuxième année de BUT Génie Chimique – Génie des Procédés
 Ce projet m’a permis de développer des compétences en instrumentation, sécurité des procédés, analyse thermique et exploitation de données.
 
 
-## Partie 1 — Réacteur manuel (double enveloppe)
+## Partie 1 - Réacteur manuel (double enveloppe)
 
 ### Objectifs
 - Étudier la réaction d’hydrolyse de l’anhydride acétique.  
@@ -35,7 +35,7 @@ Ce projet m’a permis de développer des compétences en instrumentation, sécu
 - Mise en évidence du caractère fortement exothermique de l’hydrolyse.
 
 
-## Partie 2 — Réacteur automatique (triple enveloppe)
+## Partie 2 - Réacteur automatique (triple enveloppe)
 
 ### Objectifs
 - Réaliser la même réaction mais en mode **automatisé**.  
