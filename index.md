@@ -24,7 +24,7 @@ J’aime le travail sur le terrain, la résolution de problèmes et la performan
 
 - [Projets académiques](projets_academiques.md)
 - [Stage Sika France](projet_stage_sika.md)
-- [Alternance Sodel](alternance_sodel.md)
+- [Alternance Sodel](projet_alternance_sodel.md)
 - [Projets de dimensionnement (BUT 3)](projets_dimensionnement.md)
 
 ## Contact
