@@ -1,4 +1,4 @@
-# Alternance — Sodel (2025–2026)
+# Alternance - Sodel (2025-2026)
 
 ## Contexte
 Alternance en tant que Technicienne Qualification & Validation au sein de Sodel, entreprise spécialisée dans la fabrication et commercialisation des Dispositifs Médicaux.
@@ -19,4 +19,4 @@ Alternance en tant que Technicienne Qualification & Validation au sein de Sodel,
 - Travail en environnement normé
 
 ## Synthèse
-Page en cours de construction — les détails seront ajoutés lorsque le rapport sera fourni.
+Page en cours de construction - les détails seront ajoutés lorsque le rapport sera fourni.
