@@ -20,7 +20,7 @@ J’aime le travail sur le terrain, la résolution de problèmes et la performan
 - Sodel - Techinicienne de Qualification/Validation des Procédés Industriels (Alternance 11/2025 - 08/2026)
 - Sika France - Techinicienne de Laboratoire Contrôlr Qualité/R&D (Stage 04/2025 - 06/2025)
 
-## 📁 Mes projets
+## Mes projets
 
 - [Projets académiques](projets_academiques.md)
 - [Stage Sika France](projet_stage_sika.md)
