@@ -6,7 +6,6 @@ Mission principale : **Revalorisation des eaux de rinçage des équipements de p
 
 > « Le site de Gournay-en-Bray s’inscrit dans la stratégie de développement durable portée par le groupe Sika. »
 
----
 
 ## Objectifs du projet
 1. **Réintroduction des eaux de rinçage** dans les formulations de résines.  
@@ -14,7 +13,6 @@ Mission principale : **Revalorisation des eaux de rinçage des équipements de p
 3. **Étude de la conservation** des eaux (stabilité physique + microbiologique).  
 4. Contribution à la démarche de **durabilité et économie circulaire**.
 
----
 
 ## Partie 1 — Réintroduction des eaux de rinçage
 
@@ -32,7 +30,6 @@ Mission principale : **Revalorisation des eaux de rinçage des équipements de p
 - Possibilité de réintégrer une partie des eaux de rinçage sans dégradation mécanique.  
 - Validation de la faisabilité technique.
 
----
 
 ## Partie 2 — Conservation des eaux
 
@@ -45,7 +42,6 @@ Mission principale : **Revalorisation des eaux de rinçage des équipements de p
 - Tests de conservation avec différents agents stabilisants.  
 - Détermination des conditions optimales de stockage.
 
----
 
 ## Compétences développées
 - Travail en laboratoire R&D  
@@ -55,7 +51,6 @@ Mission principale : **Revalorisation des eaux de rinçage des équipements de p
 - Approche durabilité / économie circulaire  
 - Travail en équipe avec R&D + contrôle qualité
 
----
 
 ## Synthèse
 Ce stage m’a permis de contribuer à un projet industriel réel, aligné avec les enjeux environnementaux actuels.  
