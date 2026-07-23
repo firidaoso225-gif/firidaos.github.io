@@ -1,4 +1,4 @@
-# Alternance - Sodel (2025–2026)
+# Alternance - Sodel (2025-2026)
 ## Qualification & Validation des équipements industriels
 
 ## Présentation générale
@@ -9,7 +9,6 @@ J’ai intégré le **service Assurance Qualité – Validation**, sous la respo
 (rapport Sodel)
 
 Cette alternance m’a permis de développer des compétences techniques, documentaires et réglementaires dans un environnement industriel fortement normé (ISO 9001, ISO 13485, MDR 2017/745).
-
 
 ## Missions principales
 ### 1. Revues du statut validé des équipements
