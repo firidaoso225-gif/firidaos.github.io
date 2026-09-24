@@ -16,9 +16,9 @@ J’aime le travail sur le terrain, la résolution de problèmes et la performan
 - Gestion documentaire
 
 ## Expériences
-- EFS / Hutchinson - Alternance ingénierie (Gestion Production/Ingénieure méthode procédés spéciaux) 14/09/2026- présent
+- EFS - Chargée de Gestion de Production (Alternance 09/2026 - 09/2028)
 - Sodel - Techinicienne de Qualification/Validation des Procédés Industriels (Alternance 11/2025 - 08/2026)
-- Sika France - Techinicienne de Laboratoire Contrôlr Qualité/R&D (Stage 04/2025 - 06/2025)
+- Sika France - Techinicienne de Laboratoire Contrôle Qualité/R&D (Stage 04/2025 - 06/2025)
 
 ## Mes projets
 
@@ -29,5 +29,6 @@ J’aime le travail sur le terrain, la résolution de problèmes et la performan
 
 ## Contact
 Vous pouvez me joindre via :  
-- Email : *firidaoso225@gmail.com*  
+- Email : *firidaoso225@gmail.com*
+- N° : 0605755214 
 - LinkedIn : *(https://www.linkedin.com/in/firidaos-oseni-6a2b39194/)*
