@@ -4,7 +4,7 @@ Firidaos OSENI - Portfolio Professionnel
 Je suis future ingénieure en procédés industriels.
 
 ## À propos de moi
-Actuellement en master Génie des Procédés et Bioprocédés à l'université de Sorbonne Paris Nord, je développe des compétences en procédés, analyse de risques, rédaction technique et amélioration continue.  
+Actuellement en Master Génie des Procédés et Bioprocédés à l'université de Sorbonne Paris Nord, je développe des compétences en procédés, analyse de risques, rédaction technique et amélioration continue.  
 J’aime le travail sur le terrain, la résolution de problèmes et la performance industrielle.
 
 ## Compétences principales
