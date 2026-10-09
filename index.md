@@ -1,22 +1,21 @@
 Firidaos OSENI - Portfolio Professionnel
 
 # Bienvenue sur mon portfolio.  
-Je suis future ingénieure en procédés industriels, spécialisée en validation, qualification, essais terrain, optimisation des procédés et amélioration continue.
+Je suis future ingénieure en procédés industriels.
 
 ## À propos de moi
-Actuellement en master Génie des Procédés et Bioprocédés à l'université de Sorbonne Paris Nord, je développe des compétences en validation de procédés, analyse de risques, rédaction technique et amélioration continue.  
+Actuellement en master Génie des Procédés et Bioprocédés à l'université de Sorbonne Paris Nord, je développe des compétences en procédés, analyse de risques, rédaction technique et amélioration continue.  
 J’aime le travail sur le terrain, la résolution de problèmes et la performance industrielle.
 
 ## Compétences principales
-- Validation & qualification
-- Essais terrain
+- Optimisation des procédés
 - Analyse de risques 
 - Rédaction technique
 - Amélioration continue
 - Gestion documentaire
 
 ## Expériences
-- EFS - Chargée de Gestion de Production (Alternance 09/2026 - 09/2028)
+- EFS - Chargée de Gestion de Production (Alternance 09/2026 - 08/2027)
 - Sodel - Techinicienne de Qualification/Validation des Procédés Industriels (Alternance 11/2025 - 08/2026)
 - Sika France - Techinicienne de Laboratoire Contrôle Qualité/R&D (Stage 04/2025 - 06/2025)
 
