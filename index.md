@@ -15,7 +15,6 @@ J’aime le travail sur le terrain, la résolution de problèmes et la performan
 - Gestion documentaire
 
 ## Expériences
-- EFS - Chargée de Gestion de Production (Alternance 09/2026 - 08/2027)
 - Sodel - Techinicienne de Qualification/Validation des Procédés Industriels (Alternance 11/2025 - 08/2026)
 - Sika France - Techinicienne de Laboratoire Contrôle Qualité/R&D (Stage 04/2025 - 06/2025)
 
