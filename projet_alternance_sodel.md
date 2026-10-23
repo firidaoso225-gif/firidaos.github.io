@@ -2,11 +2,10 @@
 ## Qualification & Validation des équipements industriels
 
 ## Présentation générale
-Depuis novembre 2025, je réalise mon alternance au sein de l’entreprise **Sodel**, spécialisée dans la fabrication de produits d’hygiène, de désinfection et de surodorants destinés aux professionnels.  
+J'ai réalisé cette alternance au sein de l’entreprise **Sodel**, spécialisée dans la fabrication de produits d’hygiène, de désinfection et de surodorants destinés aux professionnels.  
 J’ai intégré le **service Assurance Qualité – Validation**, sous la responsabilité de la Directrice Qualité.
 
 > « Ma mission principale consiste à participer aux projets de qualification et de validation des équipements industriels. »  
-(rapport Sodel)
 
 Cette alternance m’a permis de développer des compétences techniques, documentaires et réglementaires dans un environnement industriel fortement normé (ISO 9001, ISO 13485, MDR 2017/745).
 
