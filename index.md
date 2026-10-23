@@ -15,8 +15,8 @@ J’aime le travail sur le terrain, la résolution de problèmes et la performan
 - Gestion documentaire
 
 ## Expériences
-- Sodel - Techinicienne de Qualification/Validation des Procédés Industriels (Alternance 11/2025 - 08/2026)
-- Sika France - Techinicienne de Laboratoire Contrôle Qualité/R&D (Stage 04/2025 - 06/2025)
+- Sodel - Technicienne de Qualification/Validation des Procédés Industriels (Alternance 11/2025 - 08/2026)
+- Sika France - Technicienne de Laboratoire Contrôle Qualité/R&D (Stage 04/2025 - 06/2025)
 
 ## Mes projets
 
